@@ -3,7 +3,7 @@
 Naveen Paluru, Hariharan Ravishankar, Sharat Hegde, and Phaneendra K. Yalavarthy, "Self Distillation For Improving the Generalizability of Retinal Disease Diagnosis using Optical Coherence Tomagraphy Images", [Under Review at IEEE Journal of Selected Topics in Quantum ELectronics, (Issue on Biophotonics), Dec 2022]. 
 </p>
 
-# python files
+#### python files
 
 ```md
 train.py - train file experiment 1
@@ -16,14 +16,12 @@ myDataset.py is the the data iterator
 
 ```
 
-# usage
+#### usage
 
 ```md
-python3 train.py --name 0 --model ResNet18 --srsd True
+python3 train.py --name 0-srsd --model ResNet18 --srsd True
 
 ```
-
-
 
 <p align="justify" markdown="1">
 Please consider citing the following research papers, if the above work/code was used/referred in you research work:
@@ -31,7 +29,7 @@ Please consider citing the following research papers, if the above work/code was
 <sup> [1] Y. Zhang, T. Xiang, T. M. Hospedales, and H. Lu, “Deep mutual learning,” in Proceedings of the IEEE conference on computer vision
 and pattern recognition, 2018, pp. 4320–4328. </sub>
 
-<sup> [2] T.-B. Xu and C.-L. Liu, “Data-distortion guided self-distillation for deep neural networks,” in Proceedings of the AAAI Conference on Artificial Intelligence, vol. 33, no. 01, 2019, pp. 5565–5572. </sub>
+<sup> [2] T.-B. Xu, C.-L. Liu, “Data-distortion guided self-distillation for deep neural networks,” in Proceedings of the AAAI Conference on Artificial Intelligence, vol. 33, no. 01, 2019, pp. 5565–5572. </sub>
 
 <sup> [3] S. Yun, J. Park, K. Lee, and J. Shin, “Regularizing class-wise predictions via self-knowledge distillation,” in Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, 2020, pp. 13 876–13 885.  </sub>
 
