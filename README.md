@@ -23,8 +23,11 @@ python3 train.py --name 0-srsd --model ResNet18 --srsd True
 
 ```
 
+#### related work
+
 <p align="justify" markdown="1">
-Please consider citing the following research papers, if the above work/code was used/referred in you research work:
+
+Please consider citing the following research papers, if the above work/python codes were used/referred in you research work:
 
 <sup> [1] Y. Zhang, T. Xiang, T. M. Hospedales, and H. Lu, “Deep mutual learning,” in Proceedings of the IEEE conference on computer vision
 and pattern recognition, 2018, pp. 4320–4328. </sub>
