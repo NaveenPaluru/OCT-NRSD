@@ -1,6 +1,6 @@
 # Retinal Disease Diagnosis        
 <p align="justify" markdown="1">
-Naveen Paluru, Hariharan Ravishankar, Sharat Hegde, and Phaneendra K. Yalavarthy, "Self Distillation For Improving the Generalizability of Retinal Disease Diagnosis using Optical Coherence Tomagraphy Images", [IEEE Journal of Selected Topics in Quantum ELectronics, (Issue on Biophotonics), Dec 2022]. 
+Naveen Paluru, Hariharan Ravishankar, Sharat Hegde, and Phaneendra K. Yalavarthy, "Self Distillation For Improving the Generalizability of Retinal Disease Diagnosis using Optical Coherence Tomagraphy Images", [IEEE Journal of Selected Topics in Quantum ELectronics, (Issue on Biophotonics), July 2023]. 
 </p>
 
 #### python files
